@@ -1,0 +1,33 @@
+body
+{
+    background: #f0efef;
+}
+p
+{
+    color: black;
+}
+div
+{
+    padding-left: 20px;
+    padding-top: 20px;
+}
+.heading_Name
+{
+    font-size: 25px;
+    color: #ce9e3f;
+}
+.college_Name
+{
+    font-size: 18px;
+}
+.graduation_Date
+{
+    font-size: 14px;
+    font-weight: bold;
+    color: #ce9e3f;
+}
+.info
+{
+    font-size: 16px;
+    color: rgba(0, 0, 0, 0.699);
+}
